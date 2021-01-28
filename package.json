@@ -1,11 +1,21 @@
 {
   "name": "babel-plugin-transform-for-in",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "./src/index.js",
   "license": "MIT",
   "author": {
     "email": "1797793818@qq.com",
     "name": "cjh",
     "url": "https://github.com/"
-  }
+  },
+  "repository": {
+    "url": "https://github.com/meowWhat/babel-plugin-transform-for-in"
+  },
+  "homepage": "https://github.com/meowWhat/babel-plugin-transform-for-in",
+  "keywords": [
+    "@babel/plugin",
+    "babel",
+    "for-in",
+    "transform"
+  ]
 }
