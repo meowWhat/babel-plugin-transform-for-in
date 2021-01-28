@@ -1,0 +1,11 @@
+{
+  "name": "babel-plugin-transform-for-in",
+  "version": "1.0.1",
+  "main": "./src/index.js",
+  "license": "MIT",
+  "author": {
+    "email": "1797793818@qq.com",
+    "name": "cjh",
+    "url": "https://github.com/"
+  }
+}
